@@ -76,7 +76,7 @@ namespace Chess.Model
             
             piece.Square.Marked = true;
             var wantTakeOnThePass = piece.GetPieceType() == PieceType.Pawn &&
-                                    Math.Abs(piece.Square.Pos.X - target.Pos.X) == 1 && target.Piece == null;
+                                    System.Math.Abs(piece.Square.Pos.X - target.Pos.X) == 1 && target.Piece == null;
 
             move = move.Invert();
             
