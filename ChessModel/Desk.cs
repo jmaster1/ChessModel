@@ -1,5 +1,6 @@
 using Chess.Model.Pieces;
 using System;
+using System.Collections.Generic;
 
 namespace Chess.Model
 {
