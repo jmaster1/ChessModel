@@ -1,3 +1,5 @@
+using System;
+
 namespace Chess.Model.Pieces
 {
     public class Pawn : Piece
