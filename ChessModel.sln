@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessModel", "ChessModel\ChessModel.csproj", "{23E4E7A4-E642-4159-9A70-C50725C88ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessModelTest", "ChessModelTest\ChessModelTest.csproj", "{D479AB6B-CFA9-4EA2-8C9B-FBDDB5E4BC88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23E4E7A4-E642-4159-9A70-C50725C88ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23E4E7A4-E642-4159-9A70-C50725C88ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23E4E7A4-E642-4159-9A70-C50725C88ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23E4E7A4-E642-4159-9A70-C50725C88ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D479AB6B-CFA9-4EA2-8C9B-FBDDB5E4BC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D479AB6B-CFA9-4EA2-8C9B-FBDDB5E4BC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D479AB6B-CFA9-4EA2-8C9B-FBDDB5E4BC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D479AB6B-CFA9-4EA2-8C9B-FBDDB5E4BC88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
